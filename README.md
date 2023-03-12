@@ -1,4 +1,4 @@
-# Kata 5 
+# Kata 6 
 #### String
 
 	1.- Aplicar mètode substring.
